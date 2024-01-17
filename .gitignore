@@ -91,7 +91,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -149,5 +148,3 @@ mmaction/tools/*
 !demo/*.ipynb
 !projects/stad_tutorial/*.ipynb
 mmaction/.mim
-
-./mmaction2.tar
